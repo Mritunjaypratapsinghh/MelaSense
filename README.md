@@ -47,7 +47,12 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 ![ModelEvaluation](https://github.com/Mritunjaypratapsinghh/MelaSense/blob/main/Readme_images/ModelEvaluation.png)
 
 
+## Homepage
+![homepage](https://github.com/Mritunjaypratapsinghh/MelaSense/blob/main/Readme_images/Homepage.png)
 
+## Working
+![melanoma](https://github.com/Mritunjaypratapsinghh/MelaSense/blob/main/Readme_images/melanoma.png)
+![basalcell](https://github.com/Mritunjaypratapsinghh/MelaSense/blob/main/Readme_images/basalcell.png)
 
 ## Installation
 
