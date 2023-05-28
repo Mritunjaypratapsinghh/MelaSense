@@ -82,7 +82,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please reach out to us at contact@melasense.com. We would love to hear from you!
+If you have any questions, suggestions, or feedback, please reach out to us. We would love to hear from you!
 
-Visit our website at [https://www.melasense.com](https://www.melasense.com) for more information about MelaSense.
 
